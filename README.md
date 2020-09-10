@@ -1,5 +1,7 @@
 # RAILS & REACT TEMPLATE
 
+> Ready to deploy Heroku, Rails and React setup.
+
 ### Webpacker
 
 - Activated with this command:
