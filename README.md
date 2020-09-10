@@ -1,24 +1,22 @@
-# README
+# RAILS & REACT TEMPLATE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Webpacker
 
-Things you may want to cover:
+- Activated with this command:
+- `bundle exec rails webpacker:install:react`
 
-* Ruby version
+https://github.com/rails/webpacker/blob/master/docs/integrations.md#react
 
-* System dependencies
+### Routes
 
-* Configuration
+```ruby
+  Rails.application.routes.draw do
+    root 'pages#index'
 
-* Database creation
+    get '*path', to: 'pages#index', via: :all
+  end
+```
 
-* Database initialization
+### Linters
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- React linter activated for `/app/javascript` folder only.
