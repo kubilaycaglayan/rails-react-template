@@ -1,0 +1,58 @@
+Started GET "/" for ::1 at 2020-09-10 11:37:45 +0300
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.3ms | Allocations: 407)
+Completed 200 OK in 15ms (Views: 9.6ms | ActiveRecord: 0.0ms | Allocations: 2468)
+
+
+Started GET "/" for ::1 at 2020-09-10 11:38:29 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 16.0ms | Allocations: 179)
+Completed 200 OK in 20ms (Views: 17.4ms | ActiveRecord: 0.0ms | Allocations: 904)
+
+
+Started GET "/" for ::1 at 2020-09-10 11:38:31 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 14.6ms | Allocations: 7)
+Completed 200 OK in 17ms (Views: 15.6ms | ActiveRecord: 0.0ms | Allocations: 427)
+
+
+Started GET "/" for ::1 at 2020-09-10 11:38:32 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.7ms | Allocations: 8)
+Completed 200 OK in 3ms (Views: 1.6ms | ActiveRecord: 0.0ms | Allocations: 428)
+
+
+Started GET "/" for ::1 at 2020-09-10 11:38:41 +0300
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.7ms | Allocations: 295)
+Completed 200 OK in 11ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 1766)
+
+
+Started GET "/" for ::1 at 2020-09-10 11:40:41 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.6ms | Allocations: 179)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 904)
+
+
+Started GET "/" for ::1 at 2020-09-10 11:40:43 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.9ms | Allocations: 7)
+Completed 200 OK in 4ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 426)
+
+
+Started GET "/" for ::1 at 2020-09-10 11:40:44 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/kubilay/.rbenv/versions/2.7.0/lib/ruby/gems/2.7.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.9ms | Allocations: 8)
+Completed 200 OK in 4ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 428)
+
+
