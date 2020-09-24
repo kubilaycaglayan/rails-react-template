@@ -22,3 +22,7 @@ https://github.com/rails/webpacker/blob/master/docs/integrations.md#react
 ### Linters
 
 - React linter activated for `/app/javascript` folder only.
+
+### Tests
+
+- `npm test`
